@@ -3,5 +3,5 @@
 
 debug=yes
 developer-mode=yes
-strict=yes
+strict=no
 verbose=yes
